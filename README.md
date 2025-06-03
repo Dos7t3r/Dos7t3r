@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dos7t3r
 - 🇨🇳 I'm from Nei Mongol, China.
 - 👀 I’m interested in Computer developing and programming.
-- 🌱 I’m currently Computer Science at Canada.
+- 🌱 I’m currently Computer Science at UofT.
 
 - ⚡ ISFJ : Introverted boy :P
 
