@@ -104,20 +104,20 @@
 <br><br>
 
 <!-- 贡献奖杯 -->
-<img src="https://github-profile-trophy.vercel.app/?username=Dos7t3r&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=Dos7t3r&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" /> -->
 
 </div>
 
 <br>
 
-<!-- 3D 贡献图 -->
+<!-- 3D 贡献图
 <div align="center">
 
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/Dos7t3r/Dos7t3r/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
 
 <br>
 
@@ -129,25 +129,25 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dos7t3r/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 1" />
+      <a href="https://github.com/Dos7t3r/react-music-player">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=react-music-player&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 1" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dos7t3r/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 2" />
+      <a href="https://github.com/Dos7t3r/php-danmu-player">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=php-danmu-player&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dos7t3r/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=project-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 3" />
+      <a href="https://github.com/Dos7t3r/aimware-injection-animation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=aimware-injection-animation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 3" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dos7t3r/project-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=project-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 4" />
+      <a href="https://github.com/Dos7t3r/card-counter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dos7t3r&repo=card-counter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=6C63FF" alt="Project 4" />
       </a>
     </td>
   </tr>
@@ -160,7 +160,7 @@
 <!-- 动态内容 -->
 <div align="center">
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- 这里会自动更新你的博客文章，需要配置 GitHub Actions -->
@@ -194,7 +194,7 @@
 <br><br>
 
 <!-- 访客计数器 -->
-<img src="https://count.getloli.com/@Dos7t3r-readme?theme=rule34&padding=7&scale=1.2&pixelated=1&darkmode=auto&num=91762483" alt="Visitor Count" />
+<img src="https://count.getloli.com/@Dos7t3r-readme?theme=rule34&padding=7&scale=1.2&pixelated=1&darkmode=auto" alt="Visitor Count" />
 
 <br><br>
 
